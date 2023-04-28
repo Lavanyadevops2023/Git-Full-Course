@@ -1,0 +1,10 @@
+using System
+{
+  Namespace GitFullCourse
+{
+   class Static Void Main("String[]args")
+        {
+          console.WriteLine("Hello,world!");
+        }
+}
+}
